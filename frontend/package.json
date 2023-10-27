@@ -19,7 +19,7 @@
     "@mui/icons-material": "^5.10.9",
     "@mui/material": "^5.9.2",
     "@react-hook/resize-observer": "^1.2.6",
-    "axios": "^0.27.2",
+    "axios": "^1.6.0",
     "get-input-selection": "^1.1.4",
     "highlight.js": "^11.6.0",
     "ms": "2.1.3",
